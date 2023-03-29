@@ -1,0 +1,15 @@
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\bin\Debug\net6.0\HW_2_Type.exe
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\bin\Debug\net6.0\HW_2_Type.deps.json
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\bin\Debug\net6.0\HW_2_Type.runtimeconfig.json
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\bin\Debug\net6.0\HW_2_Type.dll
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\bin\Debug\net6.0\HW_2_Type.pdb
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.csproj.AssemblyReference.cache
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.AssemblyInfoInputs.cache
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.AssemblyInfo.cs
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.csproj.CoreCompileInputs.cache
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.dll
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\refint\HW_2_Type.dll
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.pdb
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\HW_2_Type.genruntimeconfig.cache
+D:\КУРСЫ С#\Repos\HW_2_Type\HW_2_Type\obj\Debug\net6.0\ref\HW_2_Type.dll
